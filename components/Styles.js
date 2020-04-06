@@ -17,7 +17,7 @@ const Styles = (props) => (
   }
 
   .one {
-    padding: 64px 64px 24px 0;
+    padding: 64px;
   }
 
   .bg-black {

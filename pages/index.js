@@ -3,7 +3,7 @@ import Layout from '../components/Layout'
 
 const Home = () => (
   <Layout>
-    <div className="container-fluid one">
+    <div className="container-fluid py-5 px-5">
       <div className="row">
         <div className="col-lg-6">
           <img src="/cycle.svg" className="img-fluid"></img>
