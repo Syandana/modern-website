@@ -12,7 +12,7 @@ const Styles = (props) => (
     font-weight: 500
   }
 
-  a {
+  .medium {
     font-weight: 500
   }
 
@@ -22,6 +22,10 @@ const Styles = (props) => (
 
   .bg-black {
     background-color: black;
+  }
+
+  .purple {
+    color: #4630EB;
   }
 `}
   </style>

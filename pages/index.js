@@ -56,7 +56,7 @@ const Home = () => (
           </div>
         </div>
         <div className="col-lg mb-3">
-          <div class="card">
+          <div className="card">
             <img src="/Wallpaper.png" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>

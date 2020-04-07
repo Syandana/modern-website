@@ -10,16 +10,16 @@ const Navbar = () => (
     <div className="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo01">
       <ul className="nav nav-pills nav-fill navbar-nav">
         <li className="nav-item">
-          <a className="nav-link text-dark" href="#">This</a>
+          <a className="nav-link text-dark medium" href="#">This</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-dark" href="#">is</a>
+          <a className="nav-link text-dark medium" href="#">is</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-dark" href="#">the navigation</a>
+          <a className="nav-link text-dark medium" href="#">the navigation</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-dark" href="#">bar</a>
+          <a className="nav-link text-dark medium" href="#">bar</a>
         </li>
       </ul>
     </div>
